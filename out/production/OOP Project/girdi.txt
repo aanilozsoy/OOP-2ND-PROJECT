@@ -1,0 +1,12 @@
+D,Mustafa Turksever,5000,Root
+D,Halil Sengonca,4000,Mustafa
+D,Bahar Karaoglan,3500,Mustafa
+D,Ugur Guclu,2000,Halil
+D,Sedat Tunc,2500,Halil
+D,Oguz Demir,3000,Halil
+M,Emre Kosar,700,Ugur
+M,Ahmet Egeli,700,Ugur
+M,Bora Kuzey,1000,Sedat
+M,Onder Bati,500,Oguz
+M,Erdem Altin,500,Oguz
+M,Mehmet Bilir,600,Oguz
